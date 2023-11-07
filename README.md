@@ -26,6 +26,7 @@ Leo is a functional, statically-typed programming language built for writing pri
 * [❤️ Contributors](#-contributors)
 * [🛡️ License](#-license)
 
+DISCORD : KILLERWHALESLABS#7814
 
 ## 🍎 Overview
 
